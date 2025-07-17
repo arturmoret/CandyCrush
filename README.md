@@ -53,15 +53,13 @@ Built on the same engine concepts as our Tetris clone, but centered on swapping 
 
 <div align="center">
 
-| Class             | Responsibility                                     |
-|-------------------|----------------------------------------------------|
-| `CandyMatch`      | Main application & menu system                     |
-| `GameBoard`       | Grid state, candy placement, swap execution        |
-| `Candy`           | Candy type, special state, rendering logic         |
-| `MatchFinder`     | Scan grid for matches, mark candies for removal    |
-| `LevelManager`    | Load level goals, track progress, enforce move limit |
-| `ScoreManager`    | Calculate points, save/load high scores            |
-| `InputHandler`    | Mouse click handling and swap validation           |
+| Class       | Responsibility                                         |
+|-------------|--------------------------------------------------------|
+| `Tetris`    | Main application and menu system                       |
+| `Partida`   | Manages the gameplay session, goal tracking, move count |
+| `Tauler`    | Board logic: candy grid, swaps, and state updates      |
+| `Figura`    | Candy representation and logic (color/type)            |
+| `InfoJoc`   | Shared enums, constants, and game configuration        |
 
 </div>
 
