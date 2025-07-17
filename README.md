@@ -23,7 +23,6 @@ Built on the same engine concepts as our Tetris clone, but centered on swapping 
 - **Score & Progression**  
   - Points awarded per candy cleared, with bonuses for cascades  
   - Move limit per level to increase challenge  
-  - Unlock new levels as you complete goals
 
 - **Power-ups & Special Candies**  
   Create striped, wrapped, or color-bomb candies by matching 4+ in special patterns
