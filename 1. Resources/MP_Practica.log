@@ -1,0 +1,29 @@
+﻿  debug.cpp
+  image_png.cpp
+  keyboard.cpp
+  mouse.cpp
+  NFont.cpp
+  SDL_FontCache.cpp
+C:\Users\artur\Desktop\Proyectos acabados\CandyCrush\intro_llibreria_grafica_estudiants\0. C++ Code\Graphic Lib\NFont\SDL_FontCache.cpp(205,25): warning C4309: '=': truncamiento de valor constante
+C:\Users\artur\Desktop\Proyectos acabados\CandyCrush\intro_llibreria_grafica_estudiants\0. C++ Code\Graphic Lib\NFont\SDL_FontCache.cpp(216,25): warning C4309: '=': truncamiento de valor constante
+  sound.cpp
+  sprites.cpp
+  stb_vorbis.cpp
+  video.cpp
+  candy.cpp
+C:\Users\artur\Desktop\Proyectos acabados\CandyCrush\intro_llibreria_grafica_estudiants\0. C++ Code\Logic Game\candy.cpp(7,39): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\artur\Desktop\Proyectos acabados\CandyCrush\intro_llibreria_grafica_estudiants\0. C++ Code\Logic Game\candy.cpp(6,81): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\artur\Desktop\Proyectos acabados\CandyCrush\intro_llibreria_grafica_estudiants\0. C++ Code\Logic Game\candy.cpp(15,61): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\artur\Desktop\Proyectos acabados\CandyCrush\intro_llibreria_grafica_estudiants\0. C++ Code\Logic Game\candy.cpp(15,55): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\artur\Desktop\Proyectos acabados\CandyCrush\intro_llibreria_grafica_estudiants\0. C++ Code\Logic Game\candy.cpp(20,41): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\artur\Desktop\Proyectos acabados\CandyCrush\intro_llibreria_grafica_estudiants\0. C++ Code\Logic Game\candy.cpp(19,83): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Joc.cpp
+  GraphicManager.cpp
+C:\Users\artur\Desktop\Proyectos acabados\CandyCrush\intro_llibreria_grafica_estudiants\0. C++ Code\Logic Game\GraphicManager.cpp(35,37): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\artur\Desktop\Proyectos acabados\CandyCrush\intro_llibreria_grafica_estudiants\0. C++ Code\Logic Game\GraphicManager.cpp(35,31): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  main.cpp
+  partida.cpp
+  posicio.cpp
+  tauler.cpp
+  Generando código...
+  MP_Practica.vcxproj -> C:\Users\artur\Desktop\Proyectos acabados\CandyCrush\intro_llibreria_grafica_estudiants\2. Platforms\0. Windows Desktop\Program\MP_Practica.exe
