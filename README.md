@@ -42,7 +42,6 @@ Built on the same engine concepts as our Tetris clone, but centered on swapping 
 |----------------|---------------------------------------|
 | Left Click     | Select first candy                    |
 | Left Click     | Select second candy to swap           |
-| `R`            | Reset current level                   |
 | `Esc`          | Exit the game                         |
 
 </div>
